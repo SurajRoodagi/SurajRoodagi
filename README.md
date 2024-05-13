@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj Roodagi  ! 👋
+#                                                           Suraj Roodagi   👋
 
 Welcome to my GitHub profile! I'm a DevOps Engineer passionate about automating and streamlining development workflows, building scalable infrastructure, and fostering collaboration between development and operations teams.
 
