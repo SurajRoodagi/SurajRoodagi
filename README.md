@@ -7,38 +7,84 @@ I have expertise in implementing CI/CD pipelines using tools like Azure DevOps, 
 I enjoy working with containerization technologies like Docker and Kubernetes to containerize applications and orchestrate them in scalable environments. I'm constantly exploring new tools and technologies to enhance development and operations processes.
 
 Currently, I'm diving deeper into Release and Deployment, and I'm excited to continue learning and growing in the ever-evolving field of DevOps.
+<h3>Skills</h3>
 
-## Skills
+###
+
+<p style="font-size: 1.2em;">
+  ☁️ <strong>Cloud:</strong> AWS<br>
+  💻 <strong>Operating System:</strong> Linux & Windows<br>
+  📦 <strong>Source code Repository:</strong> Git , Github, CodeCommit<br>
+  🔄 <strong>CI/CD:</strong>Jenkins, CodePipeline<br>
+  🛠 <strong>Build Tool:</strong> Maven, CodeBuild<br>
+  📊 <strong>Code Quality Check:</strong> SonarQube<br>
+  <!--⚙️ <strong>Configuration Management:</strong>Ansible , Terraform <br>-->
+  🚢 <strong>Containerization Tool:</strong> Docker 🐳, Kubernetes 🚢<br>
+  ⚙️ <strong>Configuration Management:</strong> Ansible, Terraform<br>
+  📁<strong>Repository:</strong> Nexus , DockerHub<br>
+  🔍<strong>Monitoring Tool:</strong> Grafana, Prometheus,CloudWatch<br>
+  👩‍💻 <strong>Programming Language:</strong> Java ☕, SQL<br>
+   </p>
 
 
-### DevOps :
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/b2f99ddb-718f-4641-bf66-aad55c18da1b"></code>
+   
+
+###
 
 
-### Programming Languages:
+<h3 align="left">🛠 Language and tools</h3>
 
-<code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/3754fb6c-d880-4d7d-853f-b7a4d08f7ca5"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/25fd13f4-1224-46fb-872b-079188afd4da"></code>
-<code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6b0d217c-2999-4718-bd36-11183769fcf7"></code>
+###
 
-### Frameworks/Libraries:
-<code><img height="40" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/f8f8d66e-ef61-434e-ac33-9ec9fc8c0ff8"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/7ad51c17-9e96-4722-824d-85f8fb47d4eb"></code>
+<div align="left">
 
-### Web Technologies:
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/c41cdd14-8441-476d-8904-ca8280664197"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/093d2e0a-efab-4911-8389-462b7b8444e2"></code>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
 
-### Databases:
-<code><img height="55" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6a2b8c76-ba4e-4342-a86f-8092ff937557"></code>
-<code><img height="60" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/6f1ab2a9-2058-4a3b-a122-8557efad4645"></code>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1lUOuh7EYFcqSsVf4vg_W9yKCj4s_1OE3qAMZ9dvoA&s" height="40" alt="docker logo"  />
+  <img width="12"/>
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqgMLAaqnePG_znbRTgCNP0EMVpr3grXy0WXnbEWOowg&s" height="40" alt="Linux logo"  />
+  <img width="12" />
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40" alt="java logo"  />
+  <img width="12" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_VBtLprIYiqgKoKFBSLE82JJic1KJRuMDjR4E2pEtVQ&s" height="40" alt="git logo"  />
+  <img width="12" />
+  
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="40" alt="github logo"  />
+  <img width="12" />
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkEL_SB365V9dpYx0OHbGVeUJAQysQHjplnNzjXg-xpQ&s" height="40" alt="maven logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/sonarqube-icon-2048x499-b6mw67zs.png" height="40" alt="Sonarqube logo"  />
+  <img width="6" />
+ <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1lUOuh7EYFcqSsVf4vg_W9yKCj4s_1OE3qAMZ9dvoA&s" height="40" alt="maven logo"  />
+  <img width="12" />-->
+  <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" alt="Trraform logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3HvZbcbnfbfyWwLnIk7rJREZH-M9IuTWfPsBUev-b&s" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <!-- <img src="https://ww2.freelogovectors.net/wp-content/uploads/2018/07/grafana-logo.png" height="40" alt="ansible logo"  />
+  <img width="12" />-->
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Is6mP3wpvEZFXK0AC75KPeZTQQ3J4395s7AdsMEfDA&s" height="40" alt="ansible logo"  />
+  <img width="12" />
+    <img src="https://static.thenounproject.com/png/2588218-200.png" height="40" alt="ansible logo"  />
+  <img width="12" />
 
-### Tools/IDEs:
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/0558513d-388b-4271-99e2-fad21ddecf93"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/a16fa32d-4fb3-4765-b6eb-bb8d45cdf241"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/cc2a3f1e-f4fb-4c44-9fed-f6932c0fe2dc"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/c9568324-23ef-4f44-ab74-b8a7a61d1e6e"></code>
-<code><img height="50" src="https://github.com/ShreedharVajjrashetti/demo/assets/164525339/d67f9eea-bd9b-4393-894b-25071a50c14f"></code>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/1200px-Apache_Tomcat_logo.svg.png" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png" height="40" alt="ansible logo"  />
+  <img width="12" />
+    <img src="https://logowik.com/content/uploads/images/nexus-nxs2363.jpg" height="40" alt="ansible logo"  />
+  <img width="12" />
 
 
 
