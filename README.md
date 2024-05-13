@@ -9,8 +9,6 @@ I enjoy working with containerization technologies like Docker and Kubernetes to
 Currently, I'm diving deeper into Release and Deployment, and I'm excited to continue learning and growing in the ever-evolving field of DevOps.
 <h3>Skills</h3>
 
-###
-
 <p style="font-size: 1.2em;">
   ☁️ <strong>Cloud:</strong> AWS<br>
   💻 <strong>Operating System:</strong> Linux & Windows<br>
@@ -60,8 +58,6 @@ Currently, I'm diving deeper into Release and Deployment, and I'm excited to con
   <img width="12" />
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkEL_SB365V9dpYx0OHbGVeUJAQysQHjplnNzjXg-xpQ&s" height="40" alt="maven logo"  />
   <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/sonarqube-icon-2048x499-b6mw67zs.png" height="40" alt="Sonarqube logo"  />
-  <img width="6" />
  <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL1lUOuh7EYFcqSsVf4vg_W9yKCj4s_1OE3qAMZ9dvoA&s" height="40" alt="maven logo"  />
   <img width="12" />-->
   <img src="https://www.svgrepo.com/show/376353/terraform.svg" height="40" alt="Trraform logo"  />
